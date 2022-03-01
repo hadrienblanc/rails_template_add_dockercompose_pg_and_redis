@@ -20,4 +20,3 @@ services:
 
 DOCKERFILE_CONTENT
 end
-# database.yml file : you can add now postgresql://postgres:postgres@localhost:5555/my_project_development?pool=10
