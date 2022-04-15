@@ -8,6 +8,10 @@ docker and docker-compose installed
 
 
 ## Usage
+```
+gem install rails -v 7.0.2.3
+rails -v
+```
 
 ```
 rails new MY_PROJECT_NAME  --css tailwind --database=postgresql -m https://raw.githubusercontent.com/hadrienblanc/rails_template_add_dockercompose_pg_and_redis/master/template.rb
